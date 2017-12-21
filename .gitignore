@@ -20,3 +20,4 @@
 
 # Ignore vendor files
 /vendor
+/public/assets
